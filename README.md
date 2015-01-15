@@ -14,8 +14,8 @@ npm i ruff --save
 var ruff    = require('./lib/ruff'),
     minify  = require('minify');
     
-ruff(function*(thunk) {
-    var mini        = thunk(minify, 'lib/ruff.js'),
+ruff(function*() {
+    var mini        = minify.bind(null, 'lib/ruff.js'),
         result      = yield mini;
     
     console.log(result)
