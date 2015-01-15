@@ -1,3 +1,11 @@
+2015.01.15, v1.0.2
+
+fix:
+- (ruff) create events for every ruff scrope
+- Merge pull request #1 from stoeffel/events
+-  events
+
+
 2015.01.15, v1.0.1
 
 fix:
