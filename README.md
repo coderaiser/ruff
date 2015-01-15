@@ -39,7 +39,7 @@ ruff(function*() {
     console.log('done');
 }).on('error', function(error) {
     console.log(error);
-})on('end', function() {
+}).on('end', function() {
     console.log('ok what\'s next?');
 });
 ```
