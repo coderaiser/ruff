@@ -1,3 +1,9 @@
+2015.01.15, v1.0.3
+
+fix:
+- (ruff) Events on return: events -> this
+
+
 2015.01.15, v1.0.2
 
 fix:
