@@ -1,0 +1,25 @@
+{
+  "name": "ruff",
+  "version": "1.0.0",
+  "description": "ES6 generators simpler then ever",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderaiser/ruff.git"
+  },
+  "keywords": [
+    "generators",
+    "es6"
+  ],
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (http://coderaiser.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderaiser/ruff/issues"
+  },
+  "homepage": "https://github.com/coderaiser/ruff"
+}
