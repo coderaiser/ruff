@@ -1,6 +1,6 @@
 {
   "name": "ruff",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "ES6 generators simpler then ever",
   "main": "lib/ruff.js",
   "dependencies": {},
