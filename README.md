@@ -11,7 +11,7 @@ npm i ruff --save
 ## How to use?
 
 ```js
-var ruff    = require('./lib/ruff'),
+var ruff    = require('ruff'),
     minify  = require('minify');
     
 ruff(function*() {
@@ -28,7 +28,7 @@ ruff(function*() {
 `ruff` supports parallel execution.
 
 ```js
-var ruff    = require('./lib/ruff'),
+var ruff    = require('ruff'),
     minify  = require('minify');
     
 ruff(function*() {
