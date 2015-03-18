@@ -1,6 +1,6 @@
 # Ruff
 
-ES6 generators simple as never before.
+Coroutine with ES6 generators simple as never before.
 
 ## Install
 
