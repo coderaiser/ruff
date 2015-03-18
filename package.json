@@ -1,7 +1,7 @@
 {
   "name": "ruff",
   "version": "1.2.0",
-  "description": "ES6 generators simpler then ever",
+  "description": "Coroutine with ES6 generators simpler then ever",
   "main": "lib/ruff.js",
   "dependencies": {},
   "devDependencies": {},
