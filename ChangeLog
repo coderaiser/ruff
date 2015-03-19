@@ -1,3 +1,10 @@
+2015.03.19, v1.3.0
+
+feature:
+- (ruff) add EventEmitter, when on node, update Emitify
+- (package) description: coroutine
+
+
 2015.01.15, v1.2.0
 
 feature:
