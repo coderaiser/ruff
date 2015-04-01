@@ -1,3 +1,13 @@
+2015.04.01, v1.3.1
+
+fix:
+- (ruff) call, check -> check, call
+
+feature:
+- (package) v1.3.0
+- (ruff) add EventEmitter, when on node, update Emitify
+
+
 2015.03.19, v1.3.0
 
 feature:
