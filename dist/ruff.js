@@ -91,14 +91,14 @@
 },{}],"ruff":[function(require,module,exports){
 'use strict';
     
-var Events  = require('emitify');
+var emitify = require('emitify');
 
 module.exports = ruff;
 
 function ruff(generator, args) {
     var gen,
-        events  = new Events();
-
+        events  = emitify();
+    
     if (!generator)
         throw Error('generator could not be empty!');
     
@@ -126,7 +126,7 @@ function ruff(generator, args) {
       
     return events;
 }
-    
+
 function parallel(arr, callback) {
     var done,
         i   = arr.length,
@@ -143,7 +143,6 @@ function parallel(arr, callback) {
         item(fn);
     });
 }
-
 
 },{"emitify":1}]},{},["ruff"])("ruff")
 });
