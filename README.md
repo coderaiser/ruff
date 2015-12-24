@@ -16,7 +16,7 @@ var ruff    = require('ruff'),
     
 ruff(function*() {
     var mini        = minify.bind(null, 'lib/ruff.js'),
-        result      = yield mini,
+        result      = yield mini;
     
     console.log(result)
 }).on('error', function(error) {
