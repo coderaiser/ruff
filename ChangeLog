@@ -1,3 +1,11 @@
+2016.06.06, v1.5.3
+
+feature:
+- (package) emitify v2.1.0
+- (package) jscs v3.0.3
+- (package) browserify v13.0.0
+
+
 2015.12.29, v1.5.2
 
 feature:
