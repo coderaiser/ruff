@@ -4,7 +4,7 @@
   "description": "Coroutine with ES6 generators simpler then ever",
   "main": "lib/ruff.js",
   "dependencies": {
-    "emitify": "^2.1.0"
+    "emitify": "^3.0.1"
   },
   "devDependencies": {
     "browserify": "^14.0.0",
