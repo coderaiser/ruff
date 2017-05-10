@@ -12,8 +12,7 @@
     "jscs": "^3.0.3",
     "jshint": "^2.8.0",
     "minify": "^2.0.2",
-    "tape": "^4.2.2",
-    "uglify-js": "^2.6.1"
+    "tape": "^4.2.2"
   },
   "scripts": {
     "test": "tape test/*.js",
